@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 this is xds add
 this is add2
 Creating a new branch is quick.
+Creating a new branch is quick & simple.
